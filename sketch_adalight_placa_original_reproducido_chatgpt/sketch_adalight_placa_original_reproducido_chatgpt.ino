@@ -1,6 +1,11 @@
 #include <FastLED.h>
 
 /*
+ * Sketch Adalight de la placa Arduino UNO original Reproducido ChatGPT pero con cambios concretos realizados
+ * para la tira de LED WS2812B.
+ */
+
+/*
  * Adalight / FastLED
  *
  * Reproducción del firmware antiguo:
